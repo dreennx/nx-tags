@@ -1,13 +1,115 @@
 {
-  "8396392068": {
-    "tag": "NX OWNER",
-    "color": "cyan",
-    "icon": "👑"
+  "_comment": "NX Tags V2 — Full schema with all supported fields",
+  "_roles": {
+    "priority_guide": {
+      "100": "NX OWNER",
+      "90":  "OWNER ASSISTANT",
+      "80":  "SUPPORT SPECIALIST",
+      "75":  "UI DESIGNER",
+      "70":  "CYBER SECURITY",
+      "65":  "TESTER",
+      "60":  "NX MOD",
+      "50":  "SPECIAL ACCESS",
+      "40":  "CONTRIBUTOR",
+      "30":  "MEMBER",
+      "20":  "CONTENT CREATOR",
+      "10":  "AUTHORIZED"
+    }
   },
 
   "11076353141": {
-    "tag": "NX OWNER",
-    "color": "cyan",
-    "icon": "👑"
+    "tag":       "NX OWNER",
+    "icon":      "👑",
+    "color":     "gold",
+    "animation": "pulse",
+    "priority":  100
+  },
+
+  "USERID_HERE": {
+    "tag":       "OWNER ASSISTANT",
+    "icon":      "👑",
+    "color":     "gold",
+    "animation": "glow",
+    "priority":  90
+  },
+
+  "USERID_HERE_2": {
+    "tag":       "SUPPORT SPECIALIST",
+    "icon":      "⌘",
+    "color":     "cyan",
+    "animation": "glow",
+    "priority":  80
+  },
+
+  "USERID_HERE_3": {
+    "tag":       "UI DESIGNER",
+    "icon":      "🎨",
+    "color":     "pink",
+    "animation": "gradient",
+    "priority":  75
+  },
+
+  "USERID_HERE_4": {
+    "tag":       "CYBER SECURITY",
+    "icon":      "🛡",
+    "color":     "blue",
+    "animation": "pulse",
+    "priority":  70
+  },
+
+  "USERID_HERE_5": {
+    "tag":       "TESTER",
+    "icon":      "🧪",
+    "color":     "green",
+    "animation": "shine",
+    "priority":  65
+  },
+
+  "USERID_HERE_6": {
+    "tag":       "NX MOD",
+    "icon":      "🔵",
+    "color":     "blue",
+    "animation": "glow",
+    "priority":  60
+  },
+
+  "USERID_HERE_7": {
+    "tag":       "SPECIAL ACCESS",
+    "icon":      "💎",
+    "color":     "purple",
+    "animation": "rainbow",
+    "priority":  50
+  },
+
+  "USERID_HERE_8": {
+    "tag":       "CONTRIBUTOR",
+    "icon":      "🧩",
+    "color":     "orange",
+    "animation": "shine",
+    "priority":  40
+  },
+
+  "USERID_HERE_9": {
+    "tag":       "MEMBER",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+
+  "USERID_HERE_10": {
+    "tag":       "CONTENT CREATOR",
+    "icon":      "🎥",
+    "color":     "red",
+    "animation": "glow",
+    "priority":  20
+  },
+
+  "USERID_HERE_11": {
+    "tag":       "AUTHORIZED",
+    "icon":      "🌲",
+    "color":     "green",
+    "animation": "shine",
+    "priority":  10
   }
 }
