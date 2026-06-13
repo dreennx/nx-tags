@@ -1,5 +1,5 @@
 {
-  "_comment": "NX Tags V2 — Full schema with all supported fields",
+  "_comment": "NX Tags V2 — Full schema. iconImage = rbxassetid de tu imagen (pon tu ID real). Si lo dejas en 0, usa el emoji de icon. Claves con _ se ignoran.",
   "_roles": {
     "priority_guide": {
       "100": "NX OWNER",
@@ -19,6 +19,7 @@
 
   "10995825553": {
     "tag":       "NX OWNER",
+    "iconImage": "rbxassetid://0",
     "icon":      "👑",
     "color":     "gold",
     "animation": "pulse",
@@ -27,14 +28,16 @@
 
   "10986358042": {
     "tag":       "OWNER ASSISTANT",
+    "iconImage": "rbxassetid://0",
     "icon":      "👑",
     "color":     "gold",
     "animation": "glow",
     "priority":  90
   },
 
-  "10986358042": {
+  "USERID_HERE_SUPPORT": {
     "tag":       "SUPPORT SPECIALIST",
+    "iconImage": "rbxassetid://0",
     "icon":      "⌘",
     "color":     "cyan",
     "animation": "glow",
@@ -43,6 +46,7 @@
 
   "USERID_HERE_3": {
     "tag":       "UI DESIGNER",
+    "iconImage": "rbxassetid://0",
     "icon":      "🎨",
     "color":     "pink",
     "animation": "gradient",
@@ -51,7 +55,8 @@
 
   "11105856278": {
     "tag":       "CYBER SECURITY",
-    "icon":      "🛡",
+    "iconImage": "rbxassetid://0",
+    "icon":      "🛡️",
     "color":     "blue",
     "animation": "pulse",
     "priority":  70
@@ -59,6 +64,7 @@
 
   "8741687645": {
     "tag":       "TESTER",
+    "iconImage": "rbxassetid://0",
     "icon":      "🧪",
     "color":     "green",
     "animation": "shine",
@@ -67,6 +73,7 @@
 
   "USERID_HERE_6": {
     "tag":       "NX MOD",
+    "iconImage": "rbxassetid://0",
     "icon":      "🔵",
     "color":     "blue",
     "animation": "glow",
@@ -75,6 +82,7 @@
 
   "USERID_HERE_7": {
     "tag":       "SPECIAL ACCESS",
+    "iconImage": "rbxassetid://0",
     "icon":      "💎",
     "color":     "purple",
     "animation": "rainbow",
@@ -83,6 +91,7 @@
 
   "USERID_HERE_8": {
     "tag":       "CONTRIBUTOR",
+    "iconImage": "rbxassetid://0",
     "icon":      "🧩",
     "color":     "orange",
     "animation": "shine",
@@ -91,6 +100,7 @@
 
   "10550671956": {
     "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
     "icon":      "👥",
     "color":     "white",
     "animation": "pulse",
@@ -99,6 +109,7 @@
 
   "USERID_HERE_10": {
     "tag":       "CONTENT CREATOR",
+    "iconImage": "rbxassetid://0",
     "icon":      "🎥",
     "color":     "red",
     "animation": "glow",
@@ -107,6 +118,7 @@
 
   "USERID_HERE_11": {
     "tag":       "AUTHORIZED",
+    "iconImage": "rbxassetid://0",
     "icon":      "🌲",
     "color":     "green",
     "animation": "shine",
