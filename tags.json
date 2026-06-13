@@ -1,25 +1,17 @@
 {
-  "_comment": "NX Tags V2 — Full schema. iconImage = rbxassetid de tu imagen (pon tu ID real). Si lo dejas en 0, usa el emoji de icon. Claves con _ se ignoran.",
+  "_comment": "NX Tags V2 — iconImage = rbxassetid de imagen. Si es 0, usa el emoji. Claves con _ se ignoran.",
   "_roles": {
     "priority_guide": {
-      "100": "NX OWNER",
-      "90":  "OWNER ASSISTANT",
-      "80":  "SUPPORT SPECIALIST",
-      "75":  "UI DESIGNER",
-      "70":  "CYBER SECURITY",
-      "65":  "TESTER",
-      "60":  "NX MOD",
-      "50":  "SPECIAL ACCESS",
-      "40":  "CONTRIBUTOR",
-      "30":  "MEMBER",
-      "20":  "CONTENT CREATOR",
-      "10":  "AUTHORIZED"
+      "100": "NX OWNER", "90": "OWNER ASSISTANT", "80": "SUPPORT SPECIALIST",
+      "75": "UI DESIGNER", "70": "CYBER SECURITY", "65": "TESTER", "60": "NX MOD",
+      "50": "SPECIAL ACCESS", "40": "CONTRIBUTOR", "30": "MEMBER",
+      "20": "CONTENT CREATOR", "10": "AUTHORIZED"
     }
   },
 
   "11105856278": {
     "tag":       "NX OWNER",
-    "iconImage": "iconImage": "rbxassetid://98710143344488"
+    "iconImage": "rbxassetid://98710143344488",
     "icon":      "👑",
     "color":     "gold",
     "animation": "pulse",
@@ -53,7 +45,7 @@
     "priority":  75
   },
 
-  "Despues": {
+  "USERID_HERE_CYBER": {
     "tag":       "CYBER SECURITY",
     "iconImage": "rbxassetid://0",
     "icon":      "🛡️",
