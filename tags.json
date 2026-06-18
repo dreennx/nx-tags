@@ -111,7 +111,7 @@
   "1203838988": {
     "tag":       "AUTHORIZED",
     "iconImage": "rbxassetid://0",
-    "icon":      "🌲",
+    "icon":      "🟢",
     "color":     "green",
     "animation": "shine",
     "priority":  10
