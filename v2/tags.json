@@ -1,0 +1,24 @@
+{
+  "_comment": "NX Tags v2.5 — userId -> { tag }. El LOOK (color/icono/animacion/prioridad) sale de roles.json. Agrega campos extra SOLO para override por-usuario (raw gana sobre el rol). 'tag' acepta nombres canonicos o alias (NX OWNER, NX MOD, MEMBER, CONTRIBUTOR...).",
+
+  "11105856278": {
+    "tag": "NX OWNER",
+    "iconImage": "rbxassetid://98710143344488"
+  },
+
+  "8396392068": {
+    "tag": "OWNER ASSISTANT"
+  },
+
+  "8741687645": {
+    "tag": "TESTER"
+  },
+
+  "10550671956": {
+    "tag": "MEMBER"
+  },
+
+  "1203838988": {
+    "tag": "AUTHORIZED"
+  }
+}
