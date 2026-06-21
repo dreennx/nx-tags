@@ -1,0 +1,55 @@
+{
+  "_comment": "NX Roles Registry v2.5.0 — FUENTE DE VERDAD del look de cada rol. Discord Role -> NX Tag -> Asset -> color/animacion/prioridad. tags.json solo mapea userId -> tag. Agregar un rol = anadir un objeto aqui (cero codigo). Claves con _ se ignoran al iterar.",
+
+  "_meta": {
+    "version": "2.5.0",
+    "schema": "discordRole, iconAsset (clave de _assets) | iconImage (rbxassetid crudo), icon (emoji fallback), color (#RRGGBB), animation, priority",
+    "iconPriority": "iconImage(usuario) > iconAsset(usuario) > iconImage(rol) > iconAsset(rol) > icon(emoji) > solo texto"
+  },
+
+  "_assets": {
+    "graphic_ui": "rbxassetid://96973325922644",
+    "settings":   "rbxassetid://131435728006094",
+    "youtube":    "rbxassetid://3117561276",
+    "discord":    "rbxassetid://74340827915824",
+    "copy_link":  "rbxassetid://15416627598"
+  },
+
+  "_assetUsage": {
+    "_comment": "Asignacion FUNCIONAL confirmada. graphic_ui es identidad visual COMPARTIDA (rol + capa UI).",
+    "graphic_ui": { "roles": ["UI DESIGNER"], "ui": ["HUD", "FPS", "PING", "DASHBOARD", "INTERFACE"] },
+    "settings":   { "roles": ["OWNER ASSISTANT"], "ui": [] },
+    "youtube":    { "roles": ["CONTENT CREATOR"], "ui": [] },
+    "discord":    { "roles": ["SUPPORT SPECIALIST"], "ui": ["DISCORD_BUTTON"] },
+    "copy_link":  { "roles": [], "ui": ["COPY_LINK_ACTION"] }
+  },
+
+  "_aliases": {
+    "NX OWNER": "OWNER",
+    "OWNER'S ASSISTANT": "OWNER ASSISTANT",
+    "NX MOD": "MODS",
+    "MEMBER": "INTEGRANTES",
+    "CONTRIBUTOR": "NX CONTRIBUTOR",
+    "CREADOR DE CONTENIDO": "CONTENT CREATOR"
+  },
+
+  "OWNER":              { "discordRole": "Owner",              "icon": "👑", "color": "#FFD75A", "animation": "elite_gold",     "priority": 100 },
+  "OWNER ASSISTANT":    { "discordRole": "Owner's Assistant",  "iconAsset": "settings", "icon": "👑", "color": "#C8A0FF", "animation": "elite_platinum", "priority": 95 },
+  "CYBER SECURITY":     { "discordRole": "Cyber Security",     "icon": "🛡️", "color": "#5AA0FF", "animation": "elite_cyber", "priority": 90 },
+  "SUPPORT SPECIALIST": { "discordRole": "Support Specialist", "iconAsset": "discord", "icon": "⌘", "color": "#5AE696", "animation": "luxe", "priority": 85 },
+  "UI DESIGNER":        { "discordRole": "UI Designer",        "iconAsset": "graphic_ui", "icon": "🎨", "color": "#78E6A0", "animation": "gradient", "priority": 80 },
+  "DEVELOPER UPDATES":  { "discordRole": "Developer Updates",  "icon": "🛠️", "color": "#FF5050", "animation": "luxe", "priority": 75 },
+  "MODS":               { "discordRole": "Mods",               "icon": "⚒️", "color": "#5A96FF", "animation": "elite_cyan", "priority": 70 },
+  "TESTER":             { "discordRole": "Tester",             "icon": "🧪", "color": "#6EEB96", "animation": "pulse", "priority": 65 },
+  "TRIAL SUPPORT":      { "discordRole": "Trial Support",      "icon": "🎫", "color": "#78DC96", "animation": "glow", "priority": 60 },
+  "CONTENT CREATOR":    { "discordRole": "Content Creator",    "iconAsset": "youtube", "icon": "🎥", "color": "#DC5A5A", "animation": "shine", "priority": 55 },
+  "SPECIAL ACCESS":     { "discordRole": "Special Access",     "icon": "💎", "color": "#50B4FF", "animation": "elite_crystal", "priority": 50 },
+  "NX CONTRIBUTOR":     { "discordRole": "NX Contributor",     "icon": "🧩", "color": "#78E68C", "animation": "gradient", "priority": 45 },
+  "VETERAN":            { "discordRole": "Veteran",            "icon": "🎖️", "color": "#E0913C", "animation": "shine", "priority": 40 },
+  "AUTHORIZED":         { "discordRole": "Authorized",         "icon": "✅", "color": "#5AC878", "animation": "glow", "priority": 35 },
+  "AMIGO/A":            { "discordRole": "Amigo/a",            "icon": "🦊", "color": "#FF5ADC", "animation": "shine", "priority": 30 },
+  "INTEGRANTES":        { "discordRole": "Integrantes",        "icon": "👥", "color": "#8CEBA0", "animation": "glow", "priority": 25 },
+  "NX HELPER BOT":      { "discordRole": "NX Helper Bot",      "icon": "🤖", "color": "#78E696", "animation": "glow", "priority": 20 },
+  "TICKETS ADMIN":      { "discordRole": "Tickets Admin",      "icon": "🎟️", "color": "#AAAFB9", "animation": "glow", "priority": 15 },
+  "TICKETS SUPPORT":    { "discordRole": "Tickets Support",    "icon": "🎫", "color": "#B4B9C3", "animation": "glow", "priority": 10 }
+}
