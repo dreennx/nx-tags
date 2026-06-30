@@ -8,7 +8,6 @@
       "20": "CONTENT CREATOR", "10": "AUTHORIZED"
     }
   },
-
   "11105856278": {
     "tag":       "NX OWNER",
     "iconImage": "rbxassetid://98710143344488",
@@ -17,7 +16,6 @@
     "animation": "pulse",
     "priority":  100
   },
-
   "8396392068": {
     "tag":       "OWNER ASSISTANT",
     "iconImage": "rbxassetid://0",
@@ -26,7 +24,6 @@
     "animation": "glow",
     "priority":  90
   },
-
   "USERID_HERE_SUPPORT": {
     "tag":       "SUPPORT SPECIALIST",
     "iconImage": "rbxassetid://0",
@@ -35,7 +32,6 @@
     "animation": "glow",
     "priority":  80
   },
-
   "USERID_HERE_3": {
     "tag":       "UI DESIGNER",
     "iconImage": "rbxassetid://0",
@@ -44,7 +40,6 @@
     "animation": "gradient",
     "priority":  75
   },
-
   "USERID_HERE_CYBER": {
     "tag":       "CYBER SECURITY",
     "iconImage": "rbxassetid://0",
@@ -53,7 +48,6 @@
     "animation": "pulse",
     "priority":  70
   },
-
   "8741687645": {
     "tag":       "TESTER",
     "iconImage": "rbxassetid://0",
@@ -62,7 +56,6 @@
     "animation": "shine",
     "priority":  65
   },
-
   "USERID_HERE_6": {
     "tag":       "NX MOD",
     "iconImage": "rbxassetid://0",
@@ -71,7 +64,6 @@
     "animation": "glow",
     "priority":  60
   },
-
   "USERID_HERE_7": {
     "tag":       "SPECIAL ACCESS",
     "iconImage": "rbxassetid://0",
@@ -80,7 +72,6 @@
     "animation": "rainbow",
     "priority":  50
   },
-
   "1203838988": {
     "tag":       "CONTRIBUTOR",
     "iconImage": "rbxassetid://0",
@@ -89,8 +80,7 @@
     "animation": "shine",
     "priority":  40
   },
-
-  "": {
+  "USERID_MEMBER_1": {
     "tag":       "MEMBER",
     "iconImage": "rbxassetid://0",
     "icon":      "👥",
@@ -98,7 +88,198 @@
     "animation": "pulse",
     "priority":  30
   },
-
+  "USERID_MEMBER_2": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_3": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_4": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_5": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_6": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_7": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_8": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_9": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_10": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_11": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_12": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_13": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_14": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_15": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_16": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_17": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_18": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_19": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_20": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_21": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_22": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_23": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_24": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
+  "USERID_MEMBER_25": {
+    "tag":       "MEMBER",
+    "iconImage": "rbxassetid://0",
+    "icon":      "👥",
+    "color":     "white",
+    "animation": "pulse",
+    "priority":  30
+  },
   "USERID_HERE_10": {
     "tag":       "CONTENT CREATOR",
     "iconImage": "rbxassetid://0",
@@ -107,8 +288,7 @@
     "animation": "glow",
     "priority":  20
   },
-
-  "": {
+  "USERID_HERE_AUTHORIZED": {
     "tag":       "AUTHORIZED",
     "iconImage": "rbxassetid://0",
     "icon":      "🟢",
