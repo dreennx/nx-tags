@@ -2,7 +2,7 @@
   "_comment": "NX Tags V2 — iconImage = rbxassetid de imagen. Si es 0, usa el emoji. Claves con _ se ignoran.",
   "_roles": {
     "priority_guide": {
-      "100": "NX OWNER", "90": "OWNER ASSISTANT", "80": "SUPPORT SPECIALIST",
+      "200": "NX OWNER (SUPREME)", "100": "NX OWNER", "90": "OWNER ASSISTANT", "80": "SUPPORT SPECIALIST",
       "75": "UI DESIGNER", "70": "CYBER SECURITY", "65": "TESTER", "60": "NX MOD",
       "50": "SPECIAL ACCESS", "40": "CONTRIBUTOR", "30": "MEMBER",
       "20": "CONTENT CREATOR", "10": "AUTHORIZED"
@@ -17,12 +17,12 @@
     "priority":  100
   },
   "8396392068": {
-    "tag":       "OWNER ASSISTANT",
-    "iconImage": "rbxassetid://0",
+    "tag":       "NX OWNER",
+    "iconImage": "",
     "icon":      "👑",
     "color":     "gold",
-    "animation": "glow",
-    "priority":  90
+    "animation": "elite_supreme",
+    "priority":  200
   },
   "USERID_HERE_SUPPORT": {
     "tag":       "SUPPORT SPECIALIST",
