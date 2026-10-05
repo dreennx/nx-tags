@@ -6,6 +6,13 @@
     "iconImage": "rbxassetid://98710143344488"
   },
 
+  "8396392068": {
+    "tag":       "NX OWNER",
+    "icon":      "👑",
+    "animation": "elite_supreme",
+    "priority":  200
+  },
+
   "": {
     "tag":       "TESTER"
   },
